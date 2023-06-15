@@ -1,4 +1,11 @@
 <h1>Linear Voltage Regulator for Fortissimo-100</h1>
+A linear low drop voltage regulator designed particularly for the Fortissimo-100 audio power amplifier and a discrete linear alternative for a switched mode power supply.<br>
+https://github.com/analoghifi/Elektor-Fortissimo-100<br><br>
+
+by Ton Giesberts*: https://www.elektormagazine.com/labs/linear-voltage-regulator-for-fortissimo-100 <br>
+you can buy the komplete Kit here from Elektor: ➔ https://www.elektor.com/elektor-40-v-linear-voltage-regulator-kit  <br><br>
+*(https://www.elektormagazine.com/authors/101/ton-giesberts)<br><br>
+
 <div>
 <img src="readme-pics/220581-1-project-image.webp" alt="4812" width="100%"> 
 </div>
