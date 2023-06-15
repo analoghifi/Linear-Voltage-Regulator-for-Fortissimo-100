@@ -74,7 +74,7 @@ Harmonic distortion plus noise:<br>
 <div><br>
 The FFT plot shows the frequency spectrum at 1 W in 8 Ω. The switching artifacts of the SMPS are gone. But the rest of the spectrum is essentially the same.<br>
 &nbsp;<br>
-Specifications<br>
+<strong>Specifications</strong><br>
 (both regulators)<br>
 &nbsp;<br>
 Input voltage range&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 52 V (low power usage)…43 V<br>
