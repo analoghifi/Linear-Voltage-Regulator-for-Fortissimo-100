@@ -7,7 +7,7 @@ you can buy the komplete Kit here from Elektor: ➔ https://www.elektor.com/elek
 *(https://www.elektormagazine.com/authors/101/ton-giesberts)<br><br>
 
 <div>
-<img src="readme-pics/220581-1-project-image.webp" alt="4812" width="100%"> 
+<img src="pics/elektor-40-v-linear-voltage-regulator-kit_1.jpg" alt="" width="100%"> 
 </div>
 <p><strong>For those who don't want to use a SMPS to power the Fortissimo-100 Power amplifier this is a low-drop high-current discrete symmetrical linear voltage regulator.</strong></p>
 A linear low drop voltage regulator designed particularly for the Fortissimo-100 audio power amplifier and a discrete linear alternative for a switched mode power supply. Of coarse other power amplifiers can benefit from a stabilized power supply. The power supply is specifically designed for an output voltage of +/-40 V and 13 A peak currents (15 A peak is possible). The power supply current of a class AB power amplifier at maximum undistorted output power is a half rectified sine wave (with small DC current). The average power supply current of the Fortissmo-100 in a 3 ohm load is 4 A per regulator. 3 ohm is recommended minimum impedance for the amplifier.<br>
