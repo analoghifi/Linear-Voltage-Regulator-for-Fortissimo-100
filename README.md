@@ -4,7 +4,10 @@ https://github.com/analoghifi/Elektor-Fortissimo-100<br><br>
 
 by Ton Giesberts*: https://www.elektormagazine.com/labs/linear-voltage-regulator-for-fortissimo-100 <br>
 you can buy the komplete Kit here from Elektor: ➔ https://www.elektor.com/elektor-40-v-linear-voltage-regulator-kit  <br><br>
+how to build: https://youtu.be/RYZ_FKh10xI <br><br>
 *(https://www.elektormagazine.com/authors/101/ton-giesberts)<br><br>
+
+
 
 <div>
 <img src="pics/elektor-40-v-linear-voltage-regulator-kit_1_1.jpg" alt="" width="100%"> 
